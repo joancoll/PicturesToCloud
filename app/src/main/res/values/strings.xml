@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PicturesToCloud</string>
+    <string name="error_creating_image">ERROR: cannot be created image file. Try again.</string>
+    <string name="save_at_cloud_correct">Image saved to cloud storage</string>
+    <string name="device_id">DEVICE_ID</string>
+    <string name="save_to_cloud_error">Error saving to the cloud</string>
+    <string name="save_to_cloud_done">Saving to the cloud done</string>
+    <string name="save_to_cloud">To Cloud</string>
+    <string name="take_picture">Picture</string>
+    <string name="show_gallery">Gallery</string>
+    <string name="gallery_image">Gallery image</string>
+    <string name="permissionGranted">Granted permission</string>
+    <string name="permissionDenied">Denied permission</string>
+    <string name="permissionPermDenied">Go Settings</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="writeExternalStoragePermissionNeeded">We need write external storage permission to save your pictures</string>
+    <string name="writeExternalStoragePermissionThanks">You gave access to write external storage. Thanks!</string>
+    <string name="writeExternalStoragePermissionSettings">You permanently denied write external storage permission, please enable this permission in your settings to enjoy this app.</string>
+    <string name="writeExternalStorageAccessReady">External storage write permission ready</string>
+    <string name="readExternalStoragePermissionNeeded">We need storage read permission to show your pictures</string>
+    <string name="readExternalStoragePermissionThanks">You gave access to read external storage. Thanks!</string>
+    <string name="readExternalStoragePermissionSettings">You permanently denied read external storage permission, please enable this permission in your settings to enjoy this app.</string>
+    <string name="readExternalStorageAccessReady">Read external storage permission ready</string>
+    <string name="manageExternalStoragePermissionNeeded">We need manage external storage permission to show your pictures</string>
+    <string name="manageExternalStoragePermissionThanks">You gave manage external storage permission. Thanks!</string>
+    <string name="manageExternalStoragePermissionSettings">You permanently denied manage external storage permission, please enable this permission in your settings to enjoy this app.</string>
+    <string name="manageExternalStorageAccessReady">Manage external storage permission ready</string>
+    <string name="picture_title">My picture</string>
+    <string name="picture_time">Captured at</string>
+    <string name="picture_creation_error">Error: File image cannot be created</string>
+    <string name="camera_access_error">Your device doesn\'t give access to the camera</string>
+    <string name="select_picture">Select File</string>
+    <string name="no_gallery_access">Your device doesn\'t give access to the gallery</string>
+    <string name="no_image_selected">No image selected</string>
+</resources>
